@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/12/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>开始在这里记录自己</title>
+    <url>/2021/01/25/%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1/</url>
+    <content><![CDATA[<h4 id="我是谁"><a href="#我是谁" class="headerlink" title="我是谁"></a>我是谁</h4><p>&emsp;&emsp;我是许除非，一名程序员。</p>
+<a id="more"></a>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h4 id="除非的来历"><a href="#除非的来历" class="headerlink" title="除非的来历"></a>除非的来历</h4><p>&emsp;&emsp;在我就职于上海的一家软件公司期间，有一天午休的时候，同事们在工作群里闲聊，我问了个问题：“你们知道把&lsquo;/!&rsquo;翻译成汉字是什么吗？”，大家都积极地回答了起来，但是始终没有得到我心里的那个答案。最后我告诉大家，可以翻译成<strong>除非</strong>，大家秒懂了，因为在大多数编程语言里，符号&lsquo;/&rsquo;代表了数学里的除法，符号&lsquo;!&rsquo;代表了逻辑<em>与或非</em>里的非，组合起来的简称就是除非。我继续说道，我觉得除非二字可以和古人霍去病名字里的<strong>去病</strong>或者辛弃疾名字里的<strong>弃疾</strong>的理解方式一样，即去除不对或者不好的东西，大家对我的解读表示认同。我忘记了为什么在那天提起这件事，也许是单纯地想向大家秀一把我对这两个字的独到见解。但我记得在这之前，一个人走在上海街头的时候，心中便有了它。之后慢慢地，我越来越喜欢这两个字，希望以此来鞭策自己，多去纠正自己身上不对的地方，从而更好地面对这个世界。</p>
+<h4 id="本来我设计了个图标"><a href="#本来我设计了个图标" class="headerlink" title="本来我设计了个图标"></a>本来我设计了个图标</h4><p>&emsp;&emsp;图标的意思很好理解，就是用像素拼成了&lsquo;/!&rsquo;的样子，我是个程序员，所以觉得用像素更贴切。背景颜色是酒红色，是因为我个人比较喜欢酒红色。图标的制作过程很简单，使用搜索引擎搜索到了一个<a href="http://www.diyiziti.com/Builder/156">像素字体制作网站</a>，把雏形做出来之后再通过画图工具微调就可以了。效果如下，由于还没达到我最满意的程度，暂时就不设置为头像了。</p>
+<p><img src="https://i.loli.net/2021/01/25/5X7gritcISdebfy.png" alt="除非.png"></p>
+<h4 id="这里的定位"><a href="#这里的定位" class="headerlink" title="这里的定位"></a>这里的定位</h4><p>&emsp;&emsp;我是来这里记录自己的，我是一个程序员，但我不只是一个程序员，这里可以有我在计算机领域摸爬滚打之后的总结，也可以有我读完一本书后的读后感，还可以有我对这个世界的各种看法等等。随着我的年纪的变化，我的认知也会不断地变化，这里就记录着我的变化。在这里，我用心生活，除己之非。</p>
 ]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
   </entry>
 </search>
